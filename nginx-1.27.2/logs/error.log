@@ -1,0 +1,123 @@
+2024/11/25 14:48:15 [emerg] 29996#6992: "server" directive is not allowed here in C:\Program Files\nginx-1.27.2/conf/nginx.conf:1
+2024/11/25 14:49:36 [emerg] 29596#11396: "server" directive is not allowed here in C:\Program Files\nginx-1.27.2/conf/nginx.conf:1
+2024/11/25 14:50:49 [notice] 16692#2208: signal process started
+2024/11/25 15:53:40 [notice] 5628#19936: signal process started
+2024/11/25 15:59:06 [notice] 34036#33908: signal process started
+2024/11/25 16:00:43 [notice] 27940#18768: signal process started
+2024/11/25 16:02:33 [notice] 2796#12732: signal process started
+2024/11/25 16:05:41 [notice] 37688#35640: signal process started
+2024/11/25 16:06:52 [notice] 9728#15644: signal process started
+2024/11/25 16:09:16 [notice] 23788#29888: signal process started
+2024/11/25 16:16:46 [emerg] 21272#38848: "server" directive is not allowed here in C:\Program Files\nginx-1.27.2/conf/nginx.conf:1
+2024/11/25 16:17:09 [emerg] 31884#30820: "server" directive is not allowed here in C:\Program Files\nginx-1.27.2/conf/nginx.conf:1
+2024/11/25 16:17:20 [emerg] 9028#34304: "server" directive is not allowed here in C:\Program Files\nginx-1.27.2/conf/nginx.conf:1
+2024/11/25 16:18:12 [emerg] 1804#28720: "server" directive is not allowed here in C:\Program Files\nginx-1.27.2/conf/nginx.conf:1
+2024/11/25 16:20:05 [emerg] 1868#39748: invalid number of arguments in "root" directive in C:\Program Files\nginx-1.27.2/conf/nginx.conf:19
+2024/11/25 16:21:37 [notice] 29700#31504: signal process started
+2024/11/25 16:36:23 [notice] 11636#10520: signal process started
+2024/11/25 16:36:27 [notice] 12624#19208: signal process started
+2024/11/25 16:41:00 [notice] 30856#39880: signal process started
+2024/11/25 17:08:52 [notice] 39148#24984: signal process started
+2024/11/25 17:36:21 [notice] 40852#11376: signal process started
+2024/11/25 17:51:07 [emerg] 37460#34048: invalid number of arguments in "root" directive in C:\Program Files\nginx-1.27.2/conf/nginx.conf:20
+2024/11/25 17:53:32 [emerg] 18316#28528: invalid number of arguments in "root" directive in C:\Program Files\nginx-1.27.2/conf/nginx.conf:19
+2024/11/25 17:54:40 [emerg] 36804#38224: invalid number of arguments in "root" directive in C:\Program Files\nginx-1.27.2/conf/nginx.conf:19
+2024/11/25 17:56:30 [notice] 26528#26636: signal process started
+2024/11/25 18:05:45 [error] 2292#37796: *199 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/25 18:05:47 [error] 2292#37796: *199 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
+2024/11/25 18:05:48 [error] 2292#37796: *199 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://localhost/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2024/11/25 18:21:35 [notice] 38748#25332: signal process started
+2024/11/25 18:21:41 [error] 2292#37796: *204 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
+2024/11/25 18:21:43 [error] 2292#37796: *204 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/25 18:28:30 [emerg] 40060#40376: invalid number of arguments in "root" directive in C:\Program Files\nginx-1.27.2/conf/nginx.conf:19
+2024/11/25 18:48:53 [emerg] 40364#36160: invalid number of arguments in "root" directive in C:\Program Files\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 00:01:08 [notice] 25948#4444: signal process started
+2024/11/26 00:01:28 [error] 2292#37796: *239 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/26 00:01:30 [error] 2292#37796: *239 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
+2024/11/26 00:01:30 [error] 2292#37796: *239 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2024/11/26 00:03:48 [notice] 17652#41500: signal process started
+2024/11/26 00:03:54 [error] 2292#37796: *243 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
+2024/11/26 00:03:56 [error] 2292#37796: *243 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/26 00:04:08 [error] 2292#37796: *248 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
+2024/11/26 00:04:10 [error] 2292#37796: *248 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/26 00:04:10 [error] 2292#37796: *248 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2024/11/26 00:07:53 [notice] 41256#13160: signal process started
+2024/11/26 00:11:59 [notice] 40128#40504: signal process started
+2024/11/26 00:11:59 [error] 40128#40504: CreateFile() "C:\Program Files\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/26 00:14:26 [notice] 28960#3784: signal process started
+2024/11/26 00:20:30 [notice] 38652#42168: signal process started
+2024/11/26 00:33:17 [notice] 42044#27444: signal process started
+2024/11/26 00:33:17 [error] 42044#27444: CreateFile() "C:\Program Files\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/26 00:33:44 [error] 2292#37796: *301 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/26 00:33:46 [error] 2292#37796: *301 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
+2024/11/26 00:34:32 [error] 2292#37796: *306 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
+2024/11/26 00:34:34 [error] 2292#37796: *306 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/26 00:34:34 [error] 2292#37796: *306 CreateFile() "C:\Program Files\nginx-1.27.2/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/26 00:35:01 [notice] 24592#12224: signal process started
+2024/11/26 00:35:08 [error] 2292#37796: *311 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
+2024/11/26 00:35:10 [error] 2292#37796: *311 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/26 00:35:10 [error] 2292#37796: *311 CreateFile() "C:\Program Files\nginx-1.27.2/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2024/11/26 00:45:29 [notice] 32356#39036: signal process started
+2024/11/26 11:24:18 [emerg] 35956#10284: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:25:45 [emerg] 42500#20596: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:26:20 [emerg] 43944#4704: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:26:22 [emerg] 1272#43368: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:35:19 [emerg] 19628#38412: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:20
+2024/11/26 11:35:30 [emerg] 20228#12868: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:38:54 [emerg] 40852#35520: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:43:12 [emerg] 36808#39600: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:43:14 [emerg] 36520#39880: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:43:16 [emerg] 32484#20416: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:43:18 [emerg] 35136#40372: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:44:03 [emerg] 43132#33368: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:44:04 [emerg] 34184#16324: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:46:19 [emerg] 43688#43668: invalid number of arguments in "root" directive in C:\Users\Jeeva Joslin\Desktop\nginx-1.27.2/conf/nginx.conf:19
+2024/11/26 11:55:47 [notice] 34916#10308: signal process started
+2024/11/26 11:57:27 [notice] 1208#388: signal process started
+2024/11/26 11:57:51 [notice] 42848#43840: signal process started
+2024/11/26 12:33:11 [notice] 33672#9988: signal process started
+2024/11/26 13:20:52 [notice] 16980#3436: signal process started
+2024/11/26 13:21:05 [error] 9200#26120: *23 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://[::1]:8000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:21:06 [error] 9200#26120: *25 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://127.0.0.1:8000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:21:06 [error] 9200#26120: *25 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://localhost/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:21:07 [error] 9200#26120: *23 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://127.0.0.1:8000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:21:51 [error] 9200#26120: *28 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://[::1]:8000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:21:53 [error] 9200#26120: *28 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://127.0.0.1:8000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:25:23 [error] 9200#26120: *32 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://[::1]:8000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:25:23 [error] 9200#26120: *32 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://localhost/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:25:24 [error] 9200#26120: *34 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://127.0.0.1:8000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:25:24 [error] 9200#26120: *34 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://localhost/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:26:01 [notice] 23068#7756: signal process started
+2024/11/26 13:26:27 [error] 19784#26372: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://[::1]:3000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:26:28 [error] 19784#26372: *43 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://127.0.0.1:3000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:26:28 [error] 19784#26372: *43 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://localhost/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:26:29 [error] 19784#26372: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://127.0.0.1:3000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/26 13:31:30 [notice] 22708#2060: signal process started
+2024/11/26 13:33:52 [notice] 19396#5072: signal process started
+2024/11/26 13:36:30 [notice] 25308#19044: signal process started
+2024/11/26 13:47:23 [notice] 6680#22900: signal process started
+2024/11/26 13:48:55 [notice] 24584#14932: signal process started
+2024/11/26 13:49:48 [notice] 17180#19868: signal process started
+2024/11/26 13:51:30 [notice] 15896#8512: signal process started
+2024/11/26 13:54:55 [notice] 25228#10136: signal process started
+2024/11/26 13:58:24 [notice] 20956#24344: signal process started
+2024/11/26 14:01:01 [notice] 8128#4188: signal process started
+2024/11/26 14:05:57 [notice] 10224#26272: signal process started
+2024/11/26 14:08:24 [notice] 26652#17392: signal process started
+2024/11/26 14:10:29 [notice] 18692#4048: signal process started
+2024/11/26 14:12:16 [notice] 25712#27288: signal process started
+2024/11/26 14:15:07 [notice] 3540#22792: signal process started
+2024/11/26 14:18:32 [notice] 25056#19768: signal process started
+2024/11/26 14:20:41 [notice] 27620#12184: signal process started
+2024/11/26 14:33:49 [notice] 21892#21520: signal process started
+2024/11/26 14:39:37 [notice] 22028#2388: signal process started
+2024/11/26 17:08:10 [notice] 18964#8460: signal process started
+2024/11/26 18:37:30 [notice] 9504#28452: signal process started
+2024/11/27 00:40:30 [notice] 16104#920: signal process started
+2024/11/27 00:52:51 [notice] 31012#18124: signal process started
+2024/11/27 01:00:46 [notice] 2732#30596: signal process started
+2024/11/27 01:15:42 [error] 7552#25892: *359 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "http://127.0.0.1:3000/register", host: "localhost", referrer: "http://localhost/"
+2024/11/27 01:18:04 [notice] 10436#13540: signal process started
+2024/11/27 01:35:55 [notice] 14188#7572: signal process started
+2024/11/27 03:05:24 [error] 7552#25892: *386 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/27 03:05:24 [error] 7552#25892: *387 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
